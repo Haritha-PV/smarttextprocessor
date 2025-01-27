@@ -1,4 +1,7 @@
-fpdf==1.7.2
+fpdf
 streamlit
 PyPDF2
 python-docx
+spacy
+textblob
+scikit-learn
